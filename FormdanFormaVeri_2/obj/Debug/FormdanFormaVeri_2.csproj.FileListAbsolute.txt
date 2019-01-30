@@ -1,0 +1,11 @@
+C:\Users\Section2\source\repos\NTDers9\FormdanFormaVeri_2\bin\Debug\FormdanFormaVeri_2.exe.config
+C:\Users\Section2\source\repos\NTDers9\FormdanFormaVeri_2\bin\Debug\FormdanFormaVeri_2.exe
+C:\Users\Section2\source\repos\NTDers9\FormdanFormaVeri_2\bin\Debug\FormdanFormaVeri_2.pdb
+C:\Users\Section2\source\repos\NTDers9\FormdanFormaVeri_2\obj\Debug\FormdanFormaVeri_2.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NTDers9\FormdanFormaVeri_2\obj\Debug\FormdanFormaVeri_2.FormAna.resources
+C:\Users\Section2\source\repos\NTDers9\FormdanFormaVeri_2\obj\Debug\FormdanFormaVeri_2.FormGelen.resources
+C:\Users\Section2\source\repos\NTDers9\FormdanFormaVeri_2\obj\Debug\FormdanFormaVeri_2.Properties.Resources.resources
+C:\Users\Section2\source\repos\NTDers9\FormdanFormaVeri_2\obj\Debug\FormdanFormaVeri_2.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NTDers9\FormdanFormaVeri_2\obj\Debug\FormdanFormaVeri_2.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NTDers9\FormdanFormaVeri_2\obj\Debug\FormdanFormaVeri_2.exe
+C:\Users\Section2\source\repos\NTDers9\FormdanFormaVeri_2\obj\Debug\FormdanFormaVeri_2.pdb
